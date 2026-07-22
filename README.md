@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhishek Chaudhari 👋</h1>
+<h1 align="center">Hi, I'm Abhishek Chaudhari </h1>
 <h3 align="center">B.Tech Computer Engineering student | Aspiring Data Scientist</h3>
 
 <p align="center">
@@ -42,9 +42,6 @@ Data cleaning and exploratory data analysis using Python.
 ![](https://github-readme-stats.shion.dev/api?username=Abhishekchaudhari21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Abhishekchaudhari21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishekchaudhari21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Abhishekchaudhari21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
